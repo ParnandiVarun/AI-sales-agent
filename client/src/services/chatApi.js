@@ -30,3 +30,4 @@ export async function sendMessage({ conversationId, message, clientMessageId }) 
   }
   return res.json();
 }
+
