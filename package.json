@@ -1,4 +1,11 @@
 {
+  "name": "ai-sales-agent",
+  "version": "1.0.0",
+  "scripts": {
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "start": "cd server && npm start"
+  },
   "dependencies": {
     "gitignore": "^0.7.0"
   }
